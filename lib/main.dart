@@ -62,14 +62,14 @@ class _MyAppState extends State<MyApp> {
                                   color: Colors.black,
                                 ),
                               ),
-                              // child: Text(
-                              //   cross,
-                              //   style: TextStyle(
-                              //     color: Colors.black,
-                              //     fontSize: 40,
-                              //     fontWeight: FontWeight.w900,
-                              //   ),
-                              // ),
+                              child: Text(
+                                cross,
+                                style: TextStyle(
+                                  color: Colors.black,
+                                  fontSize: 40,
+                                  fontWeight: FontWeight.w900,
+                                ),
+                              ),
                             ),
                           ),
                           Container(
